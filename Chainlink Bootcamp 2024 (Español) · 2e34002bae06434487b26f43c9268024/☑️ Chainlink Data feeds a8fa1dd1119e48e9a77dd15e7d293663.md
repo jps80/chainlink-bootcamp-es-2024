@@ -99,9 +99,9 @@ Para realizar la compra, hay que enviar ETH al contrato,  y según la cotizació
 
 ### Contratos desarrollados:
 
-- TokenShop.sol
+- [TokenShop.sol](../contracts/TokenShop.sol)
     - [https://sepolia.etherscan.io/address/0x2424cfd0d44cbaecfb80d54940bf34dd58216ef2](https://sepolia.etherscan.io/address/0x01cb4d669589f28e54dea901d667ac5930caf492)
-- TokenERC20.sol
+- [TokenERC20.sol](../contracts/tokenERC20.sol)
     - [https://sepolia.etherscan.io/address/0x2424cfd0d44cbaecfb80d54940bf34dd58216ef2](https://sepolia.etherscan.io/address/0x2424cfd0d44cbaecfb80d54940bf34dd58216ef2)
 
 ### Técnico

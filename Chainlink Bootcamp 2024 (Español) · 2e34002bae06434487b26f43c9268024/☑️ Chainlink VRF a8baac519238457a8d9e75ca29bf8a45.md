@@ -63,7 +63,7 @@ y verás que el navegador muestra
 
 ### Contratos desarrollados:
 
-- Runners.sol
+- [Runners.sol](../contracts/Runners.sol)
     - [https://testnet.snowtrace.io/address/0xf70e7169e19b1e730f5161d420a785cc2a435867](https://testnet.snowtrace.io/address/0xf70e7169e19b1e730f5161d420a785cc2a435867)
 - Suscripción chainlink VRF
     - [https://vrf.chain.link/fuji/1211](https://vrf.chain.link/fuji/1211)

@@ -54,7 +54,7 @@ El NFT contiene la imágen de un tigre que será rotada cada cierto tiempo, para
 
 ### Contratos desarrollados:
 
-- PhotoAlbum.sol
+- [PhotoAlbum.sol](../contracts/PhotoAlbum.sol)
     - [https://sepolia.etherscan.io/address/0xd9182dede0c8f9cb4d35bf54e9118dd061f9cfe1](https://sepolia.etherscan.io/address/0xd9182dede0c8f9cb4d35bf54e9118dd061f9cfe1)
 - Registro de mi automatización
     - [https://automation.chain.link/sepolia/47029791635514978174841946067586681761951290158274503324882070684219217135279](https://automation.chain.link/sepolia/47029791635514978174841946067586681761951290158274503324882070684219217135279)

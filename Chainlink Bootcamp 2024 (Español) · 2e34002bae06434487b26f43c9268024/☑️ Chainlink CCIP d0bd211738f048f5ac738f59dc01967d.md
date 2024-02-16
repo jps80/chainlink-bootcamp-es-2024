@@ -88,7 +88,7 @@ Hacer una transferencia de tokens entre la red Fuji y Sepolia.
 
 ### Contratos desarrollados:
 
-- CCIPTokenSenderFujiSepolia.sol
+- [CCIPTokenSenderFujiSepolia.sol](../contracts/CCIPTokenSenderFujiSepolia.sol)
     - 0x7F56967d6e46601A9c98D17F845E1fC2F2D63976
     - [https://testnet.snowtrace.io/tx/0xbb53cffbf4f95730004abd332866e7b69746e7e4d0d2d0d8d46bc1169cd456d0](https://testnet.snowtrace.io/tx/0xbb53cffbf4f95730004abd332866e7b69746e7e4d0d2d0d8d46bc1169cd456d0)
 

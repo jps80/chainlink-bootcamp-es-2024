@@ -63,11 +63,11 @@ Construimos un SC (TemperatureFunctions.sol) que realiza una petición a la API 
 
 ### Contratos desarrollados:
 
-- TemperatureFunctions (day9)
+- [TemperatureFunctions](../contracts/TemperatureFunctions.sol) (day9)
     - 0x338a0d61fa90D64291dB82508ac8e839eda1c964
-- GettingStartedFunctionsConsumer (day9)
+- [GettingStartedFunctionsConsumer](../contracts/GettingStartedFunctionsConsumer.sol) (day9)
     - 0x3aE5D4309CDb8f6eCf791FdBe2dA671dEE3b5165
-- WeatherFunctions (day10)
+- [WeatherFunctions](../contracts/WeatherFunctions.sol) (day10)
     - [https://testnet.snowtrace.io/address/0xd9145CCE52D386f254917e481eB44e9943F39138](https://testnet.snowtrace.io/address/0xd9145CCE52D386f254917e481eB44e9943F39138)
 - Suscripción chainlink Functions
     - [https://functions.chain.link/fuji/3283](https://functions.chain.link/fuji/3283)

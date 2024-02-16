@@ -1,9 +1,3 @@
-# Chainlink Bootcamp 2024 (Español) ·
-
-Status: Done
-URL: https://lu.ma/fkr85zi7
-tag: chainlink developer web3services
-
 # Chainlink Bootcamp Enero 2024
 
 ## Información general
